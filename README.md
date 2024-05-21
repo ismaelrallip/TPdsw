@@ -25,4 +25,12 @@ Nos basamos en Notion mezclado con Classroom.
 ![tareas urgentes e importantes](images/cuadro.png)
 
 
-**C.R.U.D**: tipo de tarea (vida personal / estudio / trabajo)
+**Primer C.R.U.D**: tipo de tarea (vida personal / estudio / trabajo).
+
+## Modelo de dominio 
+
+(foto de modelo de dominio)
+
+## notas sobre el trabajo 
+
+Para esta segunda entrega agregamos el CRUDTipoTareas.js donde se define la clase tipo tareas y se definen funciones para crear (ingresando el nombre y el codigo se genera de manera automatica y secuencial ), leer (por codigo ),actualizar (ingresando el codgio y ingresando el nuevo nombre ), elimnar (ingresando el codigo) y listar los tipos de tarea . Ademas en en EjemploTipoTareas.js probamos que la clase y las funciones realicen su funcion correctamente . 
