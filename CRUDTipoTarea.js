@@ -1,4 +1,4 @@
-class TipoDeTarea {
+export class TipoDeTarea {
   constructor(nombre) {
     this.codigo = TipoDeTarea.nextCodigo++;
     this.nombre = nombre;
@@ -7,7 +7,7 @@ class TipoDeTarea {
 
 TipoDeTarea.nextCodigo = 1;
 
-class TareaCRUD {
+export class TareaCRUD {
   constructor() {
     this.tareas = [];
   }
@@ -50,22 +50,3 @@ class TareaCRUD {
   }
 }
 
-// Ejemplo de uso
-const crud = new TareaCRUD();
-
-console.log("Crear tareas:");
-const tareaVP = crud.crear("Tarea de Vida Personal");
-const tareaE = crud.crear("Tarea de Estudio");
-const tareaT = crud.crear("Tarea de TRABAJO");
-console.log(crud.listar());
-
-console.log("Leer tarea con código 1:");
-console.log(crud.leer(1));
-
-console.log("Actualizar tarea con código 1:");
-console.log(crud.actualizar(1, "Tarea 1 Actualizada"));
-console.log(crud.listar());
-
-console.log("Eliminar tarea con código 2:");
-console.log(crud.eliminar(2));
-console.log(crud.listar());
