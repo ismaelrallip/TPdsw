@@ -1,10 +1,10 @@
 # Trabajo Práctico: Desarrollo de Software
 
-## Propuesta :
+## Propuesta 
 
 Sistema de gestión de tareas
 
-## Integrantes:
+## Integrantes
 
 - Calderon Bruno - 48881
 - Rallip Sanchez Ismael - 51392
@@ -26,7 +26,7 @@ Nos basamos en Notion mezclado con Classroom.
 
 
 
-## Modelo de dominio 
+## Modelo de dominio (boceto)
 
 (foto de modelo de dominio)
 
