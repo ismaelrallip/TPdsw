@@ -1,4 +1,4 @@
-### Trabajo Práctico: Desarrollo de Software
+# Trabajo Práctico: Desarrollo de Software
 
 ## Propuesta :
 
@@ -32,12 +32,12 @@ Nos basamos en Notion mezclado con Classroom.
 
 ## notas sobre el trabajo 
 
-# entrega 8/4 :
+### entrega 8/4 :
 
 En esta primer entrega desarrollamos la descripcion del proyecto y definimos tipo de tarea como el primer CRUD a desarrollar.
 
 tipos de tarea (vida personal / estudio / trabajo).
 
-# entrega 24/5:
+### entrega 24/5:
 
 Para esta segunda entrega agregamos el CRUDTipoTareas.js donde se define la clase tipo tareas y se definen funciones para crear (ingresando el nombre y el codigo se genera de manera automatica y secuencial ), leer (por codigo ),actualizar (ingresando el codgio y ingresando el nuevo nombre ), elimnar (ingresando el codigo) y listar los tipos de tarea . Ademas en en EjemploTipoTareas.js probamos que la clase y las funciones realicen su funcion correctamente . 
