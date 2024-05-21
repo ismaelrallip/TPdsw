@@ -21,9 +21,9 @@ Nos basamos en Notion mezclado con Classroom.
 
 ![tareas urgentes e importantes](images/cuadro.png)
 
-## Modelo de dominio (boceto)
+## Diagrama de clases (boceto)
 
-(foto de modelo de dominio)
+![Diagrama de clases ](images/Diagrama.png)
 
 ## notas sobre el trabajo
 
