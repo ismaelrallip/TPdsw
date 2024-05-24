@@ -25,7 +25,7 @@ Nos basamos en Notion mezclado con Classroom.
 
 ![Diagrama de clases ](images/Diagrama.png)
 
-## notas sobre el trabajo
+## Notas sobre el trabajo
 
 ### Entrega del 8/4 :
 
